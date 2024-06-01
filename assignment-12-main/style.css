@@ -1,0 +1,25 @@
+.btn {
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.btn-tomato {
+    color: white;
+    background-color: tomato;
+}
+
+.btn-green {
+    color: white;
+    background-color: green;
+}
+
+.btn-yellow {
+    color: black;
+    background-color: yellow;
+}
+
+
+.btn-margin {
+    margin: 30px 50px;
+}
